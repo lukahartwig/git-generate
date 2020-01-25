@@ -2,7 +2,7 @@
 
 A tool to generate random commits in a git repository.
 
-## Installation
+## Install
 
 ```bash
 > go get github.com/lukahartwig/git-generate
