@@ -5,15 +5,15 @@ A tool to generate random commits in a git repository.
 ## Install
 
 ```bash
-> go get github.com/lukahartwig/git-generate
+go get github.com/lukahartwig/git-generate
 ```
 
 ## Usage
 
 ```bash
-> git init
-> git-generate -c 5
-> git log --oneline
+git init
+git-generate -c 5
+git log --oneline
 ```
 
 Will result in the following output:
